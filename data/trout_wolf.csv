@@ -1,0 +1,53 @@
+,species_index,category,scientific_name,common_names,conservation_status,observation_index,park_name,observations
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,1294,Yosemite National Park,35
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,1766,Bryce National Park,27
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,7346,Bryce National Park,29
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,9884,Bryce National Park,74
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,10190,Great Smoky Mountains National Park,15
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,10268,Yellowstone National Park,60
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,10907,Yellowstone National Park,67
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,13427,Yellowstone National Park,203
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,17756,Great Smoky Mountains National Park,14
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,19330,Yosemite National Park,117
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,19987,Yosemite National Park,44
+0,8,Mammal,Canis lupus,Gray Wolf,Endangered,20353,Great Smoky Mountains National Park,30
+1,560,Fish,Oncorhynchus mykiss,Rainbow Trout,Not in Danger,167,Yosemite National Park,118
+1,560,Fish,Oncorhynchus mykiss,Rainbow Trout,Not in Danger,925,Bryce National Park,59
+1,560,Fish,Oncorhynchus mykiss,Rainbow Trout,Not in Danger,3354,Great Smoky Mountains National Park,61
+1,560,Fish,Oncorhynchus mykiss,Rainbow Trout,Not in Danger,4649,Yellowstone National Park,119
+1,560,Fish,Oncorhynchus mykiss,Rainbow Trout,Not in Danger,8682,Yellowstone National Park,253
+1,560,Fish,Oncorhynchus mykiss,Rainbow Trout,Not in Danger,11893,Bryce National Park,105
+1,560,Fish,Oncorhynchus mykiss,Rainbow Trout,Not in Danger,15020,Great Smoky Mountains National Park,39
+1,560,Fish,Oncorhynchus mykiss,Rainbow Trout,Not in Danger,15239,Yosemite National Park,59
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,1294,Yosemite National Park,35
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,1766,Bryce National Park,27
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,7346,Bryce National Park,29
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,9884,Bryce National Park,74
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,10190,Great Smoky Mountains National Park,15
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,10268,Yellowstone National Park,60
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,10907,Yellowstone National Park,67
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,13427,Yellowstone National Park,203
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,17756,Great Smoky Mountains National Park,14
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,19330,Yosemite National Park,117
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,19987,Yosemite National Park,44
+2,3020,Mammal,Canis lupus,"Gray Wolf, Wolf",In Recovery,20353,Great Smoky Mountains National Park,30
+3,3283,Fish,Oncorhynchus mykiss,Rainbow Trout,Threatened,167,Yosemite National Park,118
+3,3283,Fish,Oncorhynchus mykiss,Rainbow Trout,Threatened,925,Bryce National Park,59
+3,3283,Fish,Oncorhynchus mykiss,Rainbow Trout,Threatened,3354,Great Smoky Mountains National Park,61
+3,3283,Fish,Oncorhynchus mykiss,Rainbow Trout,Threatened,4649,Yellowstone National Park,119
+3,3283,Fish,Oncorhynchus mykiss,Rainbow Trout,Threatened,8682,Yellowstone National Park,253
+3,3283,Fish,Oncorhynchus mykiss,Rainbow Trout,Threatened,11893,Bryce National Park,105
+3,3283,Fish,Oncorhynchus mykiss,Rainbow Trout,Threatened,15020,Great Smoky Mountains National Park,39
+3,3283,Fish,Oncorhynchus mykiss,Rainbow Trout,Threatened,15239,Yosemite National Park,59
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,1294,Yosemite National Park,35
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,1766,Bryce National Park,27
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,7346,Bryce National Park,29
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,9884,Bryce National Park,74
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,10190,Great Smoky Mountains National Park,15
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,10268,Yellowstone National Park,60
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,10907,Yellowstone National Park,67
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,13427,Yellowstone National Park,203
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,17756,Great Smoky Mountains National Park,14
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,19330,Yosemite National Park,117
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,19987,Yosemite National Park,44
+4,4448,Mammal,Canis lupus,"Gray Wolf, Wolf",Endangered,20353,Great Smoky Mountains National Park,30
